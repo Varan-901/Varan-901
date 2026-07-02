@@ -36,7 +36,6 @@ The current version can run locally and was created as a display for how future 
 - HTML, CSS, JavaScript
 - C   (Core Basics, Arduino)
 - C# (Unity)
-- SQL
 
 **Frameworks & Tools**
 
